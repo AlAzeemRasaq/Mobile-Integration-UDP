@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DuoProject</string>
+    <string name="room1_name">Living Room</string>
+    <string name="room2_name">Bedroom 1</string>
+    <string name="room3_name">Kitchen</string>
+    <string name="room4_name">Bedroom 2</string>
+    <string name="room5_name">Bedroom 3</string>
+    <string name="room6_name">Corridor</string>
+</resources>
